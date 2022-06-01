@@ -18,7 +18,7 @@
 
 ⚡ **Fun fact:** this project was created as university course project
 
-<h1 align="center">💫💻Tech Stack</h1>
+<h1 align="center">💻Tech Stack</h1>
 
 <p align="center">
   <img alt="kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
