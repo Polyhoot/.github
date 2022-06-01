@@ -31,3 +31,6 @@
 <p><a href="https://github.com/polyhoot/web"><code>Polyhoot/web</code></a> - <b>Web interface</b> for the game where users can create and manage their game packs. Acts as a game host: Displays questions and pictures/videos to players.
 <p><a href="https://github.com/polyhoot/android"><code>Polyhoot/android</code></a> - Native <b>Android client</b> for the game. Uses Material3 components and Dynamic colors.</p>
 <p><a href="https://github.com/polyhoot/play"><code>Polyhoot/play</code></a> - <b>Web client</b> for the game. For those who want to play but don't have Android device.</p>
+
+<h2>License</h2>
+<p>This project is licensed under the Apache License 2.0 - see the <a href=../LICENSE>LICENSE</a> file for details.</p>
