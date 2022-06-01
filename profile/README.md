@@ -1,10 +1,10 @@
-<p>
+<p align="center">
   <a href="https://polyhoot.ciphen.net">
     <img src="https://github.com/Polyhoot/.github/blob/main/logo.jpeg?raw=true" alt="polyhoot logo green" width="120" height="120">
   </a>
 </p>
 
-<h3>Welcome to the Polyhoot project! We are doing a Kahoot-like game but open source.</h1>
+<h3 align="center">Welcome to the Polyhoot project! We are doing a Kahoot-like game but open source.</h1>
 
 <h1>About us</h1>
 
