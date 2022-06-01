@@ -33,4 +33,4 @@
 <p><a href="https://github.com/polyhoot/play"><code>Polyhoot/play</code></a> - <b>Web client</b> for the game. For those who want to play but don't have Android device.</p>
 
 <h2>License</h2>
-<p>This project is licensed under the Apache License 2.0 - see the <a href=../LICENSE>LICENSE</a> file for details.</p>
+<p>This project is licensed under the Apache License 2.0 - see the <a href=LICENSE>LICENSE</a> file for details.</p>
