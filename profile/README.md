@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://polyhoot.ciphen.net">
-    <img src="https://github.com/Polyhoot/.github/blob/main/logo.jpeg?raw=true" alt="polyhoot logo green" width="80" height="80">
+    <img src="https://github.com/Polyhoot/.github/blob/main/logo.jpeg?raw=true" alt="polyhoot logo green" width="120" height="120">
   </a>
 </p>
 
